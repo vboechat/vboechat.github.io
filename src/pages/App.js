@@ -2,7 +2,9 @@ import '../assets/styles/app.css';
 
 function App() {
   return (
-    <p id="construction">This page is currently under construction</p>  
+    <div id="construction">
+      <span>This page is currently under construction</span>
+    </div>
   );
 }
 
