@@ -29,9 +29,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Nawiab/nawiab.github.io">
+  <!-- <a href="https://github.com/Nawiab/nawiab.github.io">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
 <h3 align="center">My Portfolio Website</h3>
 
