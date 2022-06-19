@@ -140,15 +140,15 @@ Use this space to show useful examples of how a project can be used. Additional 
   - [ ] About me  
   - [ ] Technologies
   - [ ] CV
-  - [ ] Contact
-- [ ] Sections implemented in code
+  - [X] Contact
+- [ ] Implemented in code:
     - [ ] Navbar
     - [ ] Home
     - [ ] About me
     - [ ] Technologies
     - [ ] CV
     - [ ] Contact
-- [ ] Script finished
+- [ ] Project finished
 
 See the [open issues](https://github.com/vboechat/vboechat.github.io/issues) for a full list of proposed features (and known issues).
 
@@ -183,15 +183,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 -->
 
 
-<!-- CONTACT
+<!-- CONTACT -->
 ## Contact
 
-vboechat - You can contact me by sending message for .
-
-Project Link: [https://github.com/vboechat/vboechat.github.io](https://github.com/vboechat/vboechat.github.io)
+E-mail > You can contact me by sending an e-mail: `victor2005contato@gmail.com`.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
--->
 
 
 <!-- ACKNOWLEDGMENTS -->
