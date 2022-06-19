@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Nawiab/nawiab.github.io">
+  <a href="https://github.com/vboechat/vboechat.github.io">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,14 +38,14 @@
   <p align="center">
     This repository contains the file that I'm using for my portfolio website using HTML/CSS, JavaScript and React.
     <br />
-    <a href="https://github.com/Nawiab/nawiab.github.io"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/vboechat/vboechat.github.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Nawiab/nawiab.github.io">View Demo</a>
+    <a href="https://github.com/vboechat/vboechat.github.io">View Demo</a>
     ·
-    <a href="https://github.com/Nawiab/nawiab.github.io/issues">Report Bug</a>
+    <a href="https://github.com/vboechat/vboechat.github.io/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Nawiab/nawiab.github.io/issues">Request Feature</a>
+    <a href="https://github.com/vboechat/vboechat.github.io/issues">Request Feature</a>
   </p>
 </div>
 
@@ -116,7 +116,7 @@ You need to have some things on your computer to run this project locally, check
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Nawiab/nawiab.github.io.git
+   git clone https://github.com/vboechat/vboechat.github.io.git
    ```
 2. Install NPM packages
    ```sh
@@ -138,7 +138,7 @@ This project has 4 npm scripts available.
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -146,7 +146,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
+-->
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -154,12 +154,13 @@ Use this space to show useful examples of how a project can be used. Additional 
 - [ ] UI 
 - [ ] Sections implemented
     - [ ] Home
+    - [ ] About me 
     - [ ] Technologies
-    - [ ] Résumé
+    - [ ] CV
     - [ ] Contact
 - [ ] Script finished
 
-See the [open issues](https://github.com/Nawiab/nawiab.github.io/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/vboechat/vboechat.github.io/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -195,9 +196,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT
 ## Contact
 
-Nawiab - You can contact me by sending message for .
+vboechat - You can contact me by sending message for .
 
-Project Link: [https://github.com/Nawiab/nawiab.github.io](https://github.com/Nawiab/nawiab.github.io)
+Project Link: [https://github.com/vboechat/vboechat.github.io](https://github.com/vboechat/vboechat.github.io)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 -->
@@ -215,16 +216,16 @@ Project Link: [https://github.com/Nawiab/nawiab.github.io](https://github.com/Na
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Nawiab/nawiab.github.io.svg?style=for-the-badge
-[contributors-url]: https://github.com/Nawiab/nawiab.github.io/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Nawiab/nawiab.github.io.svg?style=for-the-badge
-[forks-url]: https://github.com/Nawiab/nawiab.github.io/network/members
-[stars-shield]: https://img.shields.io/github/stars/Nawiab/nawiab.github.io.svg?style=for-the-badge
-[stars-url]: https://github.com/Nawiab/nawiab.github.io/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Nawiab/nawiab.github.io.svg?style=for-the-badge
-[issues-url]: https://github.com/Nawiab/nawiab.github.io/issues
-[license-shield]: https://img.shields.io/github/license/Nawiab/nawiab.github.io.svg?style=for-the-badge
-[license-url]: https://github.com/Nawiab/nawiab.github.io/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/vboechat/vboechat.github.io.svg?style=for-the-badge
+[contributors-url]: https://github.com/vboechat/vboechat.github.io/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/vboechat/vboechat.github.io.svg?style=for-the-badge
+[forks-url]: https://github.com/vboechat/vboechat.github.io/network/members
+[stars-shield]: https://img.shields.io/github/stars/vboechat/vboechat.github.io.svg?style=for-the-badge
+[stars-url]: https://github.com/vboechat/vboechat.github.io/stargazers
+[issues-shield]: https://img.shields.io/github/issues/vboechat/vboechat.github.io.svg?style=for-the-badge
+[issues-url]: https://github.com/vboechat/vboechat.github.io/issues
+[license-shield]: https://img.shields.io/github/license/vboechat/vboechat.github.io.svg?style=for-the-badge
+[license-url]: https://github.com/vboechat/vboechat.github.io/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
