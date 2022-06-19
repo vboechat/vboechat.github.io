@@ -151,10 +151,17 @@ Use this space to show useful examples of how a project can be used. Additional 
 ## Roadmap
 
 1.0:
-- [ ] UI 
-- [ ] Sections implemented
+- [ ] UI:
+  - [X] Navbar
+  - [X] Home
+  - [ ] About me  
+  - [ ] Technologies
+  - [ ] CV
+  - [ ] Contact
+- [ ] Sections implemented in code
+    - [ ] Navbar
     - [ ] Home
-    - [ ] About me 
+    - [ ] About me
     - [ ] Technologies
     - [ ] CV
     - [ ] Contact
