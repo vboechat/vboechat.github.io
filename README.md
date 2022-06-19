@@ -77,8 +77,8 @@ I want to find a job at front-end development, so I created this portfolio websi
 
 * HTML5/CSS3
 * JavaScript
-* [Figma (for Design)](https://www.figma.com/)
 * [React.js](https://reactjs.org/)
+* [Figma](https://www.figma.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
