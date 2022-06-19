@@ -1,11 +1,12 @@
 <div id="top"></div>
 <!-- PROJECT SHIELDS -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
-<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -214,5 +215,5 @@ E-mail > You can contact me by sending an e-mail: `victor2005contato@gmail.com`.
 [license-shield]: https://img.shields.io/github/license/vboechat/vboechat.github.io.svg?style=for-the-badge
 [license-url]: https://github.com/vboechat/vboechat.github.io/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/victor-ribeiro-boechat-641225238/
 [product-screenshot]: images/screenshot.png
